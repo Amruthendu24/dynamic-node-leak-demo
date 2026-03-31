@@ -1,0 +1,6 @@
+{
+  "name": "dynamic-node-leak-demo",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
